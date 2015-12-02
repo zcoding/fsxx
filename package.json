@@ -1,0 +1,22 @@
+{
+  "name": "fsxx",
+  "version": "0.0.1",
+  "description": "fs helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcoding/fsxx.git"
+  },
+  "keywords": [
+    "fs"
+  ],
+  "author": "zcoding <wuzijie_1991@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcoding/fsxx/issues"
+  },
+  "homepage": "https://github.com/zcoding/fsxx#readme"
+}
